@@ -19,6 +19,7 @@
   background: rgb(82, 195, 3);
   padding: 21px 32px;
   border: none;
+  cursor: pointer;
 }
 
 /* Hero section styles */
@@ -126,6 +127,7 @@
   border: none;
   background: rgba(82, 195, 3, 0.15);
   padding: 14px 32px;
+  cursor: pointer;
 }
 
 .card-title {
