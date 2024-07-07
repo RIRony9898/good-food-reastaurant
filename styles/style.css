@@ -191,6 +191,9 @@
   font-size: 1.5rem;
 }
 
+.icons i {
+  cursor: pointer;
+}
 
 
 /* Footer section styles */
